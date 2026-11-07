@@ -1,8 +1,9 @@
-- 👋 Hi, I’m @SarahAnwarMY
-- 👀 I’m interested in Educational Technology
-- 🌱 I’m currently learning Education
-- 💞️ I’m looking to collaborate on enhancing Virtual Learning Experiences
-- 📫 How to reach me ...
+👋 Hi, I'm Sarah Anwar (@SarahAnwarMY).
+
+🎓 Educational Technology & Instructional Design
+🤖 AI-powered Assessment & Learning Innovation
+💻 Building and experimenting with technology
+🚀 Passionate about turning ideas into solutions
 
 <!---
 SarahAnwarMY/SarahAnwarMY is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
